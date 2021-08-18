@@ -1,3 +1,3 @@
-module go.haiyiyun.org/uuid
+module github.com/haiyiyun/uuid
 
 go 1.16
